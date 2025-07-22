@@ -41,27 +41,3 @@
 
 ---
 
-## 📬 Let's Connect!
-
-| Platform | Link |
-|----------|------|
-| 🔗 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/octokatherine) |
-| 📸 Instagram | [Follow me on Instagram](https://www.instagram.com/octokatherine) |
-| ✉️ Email | [niteshcse3333@gmail.com](mailto:niteshcse3333@gmail.com) |
-
----
-
-## 🌐 Social Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</p>
-
----
-
-<!---
-CodeMonitor-lab/CodeMonitor-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
