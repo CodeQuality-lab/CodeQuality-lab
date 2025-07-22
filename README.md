@@ -1,43 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ram!</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ram</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <em>A passionate Full Stack Developer building dynamic, scalable, and modern web applications with a keen eye for detail and user experience.</em>
+  Building scalable, responsive, and dynamic web applications with MongoDB, Express, React, and Node.js.
 </p>
 
 <p align="center">
-  <a href="https://katherineoelsner.com/">
-    <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-  <a href="mailto:niteshcse3333@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://katherineoelsner.com/">Portfolio</a> • 
+  <a href="mailto:niteshcse3333@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Frontend
-- ⚡️ Vite + React
-- ⚛️ Redux / Redux Toolkit
-- 🎨 Tailwind CSS / Bootstrap
-- 🧩 HTML, CSS, JavaScript
+**Frontend:**  
+Vite + React · Redux Toolkit · Tailwind CSS · Bootstrap · HTML · CSS · JavaScript
 
-### 🔧 Backend
-- 🌿 MongoDB
-- 🛠️ Node.js
-- 🚀 Express.js
+**Backend:**  
+Node.js · Express.js · MongoDB
 
-### 📦 CMS
-- ![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+**CMS:**  
+Strapi
 
 ---
 
-## 💻 Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+## OS Experience
+
+Windows · Linux · Ubuntu
 
 ---
 
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/octokatherine)
+- [Instagram](https://www.instagram.com/octokatherine)
+- [Email](mailto:niteshcse3333@gmail.com)
