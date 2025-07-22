@@ -10,7 +10,7 @@
   <a href="https://katherineoelsner.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="mailto:niteshcse3333@gmail.com">
+  <a href="mailto:wtfdeepu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
