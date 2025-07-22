@@ -72,8 +72,3 @@ A driven Full Stack Developer specializing in the MERN stack. I focus on buildin
 
 ---
 
-### 📬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/octokatherine)
-- [Instagram](https://www.instagram.com/octokatherine)
-- [Email](mailto:niteshcse3333@gmail.com)
