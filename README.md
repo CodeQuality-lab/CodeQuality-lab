@@ -1,18 +1,4 @@
-<div align="center">
-  <img src="YOUR_IMAGE.jpg" alt="Ram" width="150" style="border-radius:50%; box-shadow:0 0 10px rgba(0,0,0,0.2);" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/octokatherine">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/octokatherine">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:niteshcse3333@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+---
 
 <h1 align="center">Hi, I'm Nishant 👋</h1>
 
