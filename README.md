@@ -14,10 +14,10 @@
   </a>
 </div>
 
-<h1 align="center">Hi, I'm Ram 👋</h1>
+<h1 align="center">Hi, I'm Nishant 👋</h1>
 
 <div align="center">
-  <em>Full Stack Web Developer | MERN Architect | UI/UX Minded</em>
+  <em>A Full Stack Web Developer</em>
 </div>
 
 ---
@@ -63,12 +63,4 @@ A driven Full Stack Developer specializing in the MERN stack. I focus on buildin
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octokatherine&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=octokatherine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
